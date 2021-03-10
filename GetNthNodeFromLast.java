@@ -1,5 +1,13 @@
 
+/**
+*  @author : Pankaj Tirpude
+*  @note  : can be solve using stack and on traversal but it will cost extra O(N) space complexity.
+*  Implemented solution has O(1) space complexity and O(N) time complexity.
+*
+*/
+
 public class GetNthNodeFromLast {
+
 
   public int solve(Node head, int n)
   {
