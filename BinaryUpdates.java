@@ -11,9 +11,7 @@
 *
 *   Problem Constraints
 *      1 <= A, Q <= 105
-*
 *      0 <= x <= 1
-*
 *      1 <= y <= A
 *
 *   Input Format
