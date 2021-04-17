@@ -1,3 +1,17 @@
+/**
+*  
+*
+*  https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1#
+*
+*  Complete the function kLargest() that takes the array, N and K as input parameters
+*  and returns a list of k largest element in descending order. 
+*  Expected Time Complexity: O(N log K)
+*  Expected Auxiliary Space: O(K)
+*
+*
+*
+*/
+
 
 import java.util.*;
 
