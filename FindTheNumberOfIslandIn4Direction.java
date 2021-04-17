@@ -2,7 +2,7 @@
 *
 *  problem link : https://leetcode.com/problems/number-of-islands/
 *
-*
+*  Given a 2-D matrix of 0s and 1s, find the number of groups of adjacent 1s given that diagonal 1s are not included.
 *
 *
 *
